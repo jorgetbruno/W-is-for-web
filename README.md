@@ -1,9 +1,9 @@
-# lab-dw-2017-1
-Laboratório de Desenvolvimento de Software para a Web de 2017/1.
+# W-is-forweb
+Exercicio ara o Laboratório de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Obtendo o projeto
 
-`git clone https://github.com/walison-moreira-ufg/lab-dw-2017-1`
+`git clone https://github.com/jorgetbruno/W-is-for-web`
 
 ## Executando a aplicação
 
