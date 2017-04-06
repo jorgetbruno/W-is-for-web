@@ -1,5 +1,5 @@
 # W-is-forweb
-Exercicio ara o Laboratório de Desenvolvimento de Software para a Web de 2017/1.
+Exercicio para o Laboratório de Desenvolvimento de Software para a Web de 2017/1.
 
 ## Obtendo o projeto
 
@@ -11,7 +11,7 @@ Exercicio ara o Laboratório de Desenvolvimento de Software para a Web de 2017/1
 
 ## Acessando a aplicação
 
-Acesse `http://localhost:8080/W-is-for-web/` em qualquer navegador.
+Acesse `http://localhost:9090/W-is-for-web/` em qualquer navegador.
 
 ## Como o projeto foi construído
 
